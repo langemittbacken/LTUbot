@@ -1,0 +1,14 @@
+{
+    "name": "LTUbot",
+    "version": "1.0.0",
+    "description": "Discord bot for LTU Students",
+    "main": "index.js",
+    "author": "Ludvig Hedlund",
+    "dependencies": {
+        "axios": "^0.26.0",
+        "discord.js": "^13.6.0",
+        "dotenv": "^16.0.0",
+        "string-similarity": "^4.0.4",
+        "winston": "^3.6.0"
+    }
+}
