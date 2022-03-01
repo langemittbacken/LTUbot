@@ -1,6 +1,6 @@
 get weather data from a specified city
 
-usage in chat: (skip /[yourCommand] when directly talking to the bot)
+usage in chat:
 /weather [city]
 
 example:
